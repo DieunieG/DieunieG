@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Senior Computer Science student at **Farmingdale State College** (Dean's List)
+- 🎓 Senior Computer Science student at **Farmingdale State College** 
 - 🔥 Passionate about building beautiful, practical software
 - 🚀 Exploring JavaFX, Cloud Databases (Azure), Web Development, and UI/UX
 - 🌱 Currently learning advanced JavaFX UI techniques and OpenAI API integration
