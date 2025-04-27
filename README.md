@@ -54,4 +54,17 @@
 - 🌐 **Event RSVP Website** — HTML | CSS | JavaScript  
   _Responsive event website with RSVP form, live updates, and animated modal._  
   🌐 [Visit Live Site](https://drawing-flexible-stream-277.vscodeedu.app)
+  
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DieunieG&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DieunieG&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieunieG&layout=compact&theme=radical" width="48%" />
+</p>
 
