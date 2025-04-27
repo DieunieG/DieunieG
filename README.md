@@ -2,6 +2,7 @@
   <img src="https://github.com/Dieunieg/Dieunieg/blob/main/Banner.png?raw=true" alt="Banner" width="100%" />
 </p>
 
+
 <h1 align="center">Hi 👋🏽, I'm Dieunie Gousse</h1>
 <h3 align="center">Aspiring Software Engineer | UI/UX Enthusiast</h3>
 
@@ -56,15 +57,3 @@
   _Responsive event website with RSVP form, live updates, and animated modal._  
   🌐 [Visit Live Site](https://drawing-flexible-stream-277.vscodeedu.app)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dieunieg&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieunieg&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieunieg&layout=compact&theme=radical" width="48%" />
-</p>
