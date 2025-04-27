@@ -15,11 +15,14 @@
 
 ---
 
+---
+
 ### 📫 Connect with Me
 <p align="left">
 <a href="mailto:mariedgousse@gmail.com"><img src="https://img.shields.io/badge/Gmail-mariedgousse@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="[https://linkedin.com/in/dieuniegousse](https://www.linkedin.com/in/dieunie-gousse-7a717422b/)"><img src="https://img.shields.io/badge/LinkedIn-Dieunie%20Gousse-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dieunie-gousse-7a717422b/"><img src="https://img.shields.io/badge/LinkedIn-Dieunie%20Gousse-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
 
 ---
 
