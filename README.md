@@ -67,7 +67,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieunieG&layout=compact&theme=radical" width="48%" />
 </p>
-        ---
+        
 
 <p align="center"><i>"Coding the future, one beautiful idea at a time. 💻🎨"</i></p>
 
