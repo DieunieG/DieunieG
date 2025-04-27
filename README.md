@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Dieunieg/Dieunieg/blob/main/Banner.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dieunieg/Dieunieg/main/Banner.png" alt="Banner" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hi 👋🏽, I'm Dieunie Gousse</h1>
