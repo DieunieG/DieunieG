@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Dieunieg/Dieunieg/blob/main/A_2D_digital_graphic_banner_introduces_Dieunie_Gou.png?raw=true" alt="Banner" width="100%" />
-</p>
-
 
 
 
