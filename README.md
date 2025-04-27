@@ -67,7 +67,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieunieg&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dieunieg&theme=dracula&area=true&hide_border=true" width="100%" />
 </p>
-
----
