@@ -69,6 +69,6 @@
 </p>
         
 
-<p align="center"><i>"Coding the future, one beautiful idea at a time. 💻🎨"</i></p>
+<p align="center"><i>Coding the future, one beautiful idea at a time. 💻🎨</i></p>
 
 ---
